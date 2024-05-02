@@ -36,6 +36,7 @@ Right now I'm obsessed with CNN models and algrithms, state-of-the-art real-time
 - Agile Foundations
 - Learning GitHub
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contributions
 
