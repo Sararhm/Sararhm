@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-Welcome to my GitHub, a proficient Machine Learning Engineer with a rich background in computer science, equipped with an extensive skill set in Python, machine learning algorithms, and data handling frameworks. This repository hosts a collection of projects and codes that demonstrate my capabilities and expertise in coding.
+Welcome to my GitHub...
+I'm a Machine Learning Engineer with a rich background in computer science, equipped with an extensive skill set in Python, machine learning algorithms, data handling frameworks, website design and developement. This repository hosts a collection of projects and codes that demonstrate my capabilities and expertise in different area of coding.
 Right now I'm obsessed with CNN models and algrithms, state-of-the-art real-time object detection systems and developing my costum datasets.
 
 
