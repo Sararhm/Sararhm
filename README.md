@@ -36,8 +36,6 @@ Right now I'm obsessed with CNN models and algrithms, state-of-the-art real-time
 - Agile Foundations
 - Learning GitHub
 
-#[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sararhm)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contributions
 
 Feel free to explore the projects and suggest improvements or collaborate by opening issues or submitting pull requests. For any inquiries or professional engagements, contact me directly via email or LinkedIn.
