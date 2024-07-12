@@ -30,6 +30,7 @@ Right now I'm obsessed with CNN models and algrithms, state-of-the-art real-time
 ### Certifications
 
 - Applied Information Technology
+- Build Basic Generative Adversarial Networks (GANs)
 - Introduction to Generative AI
 - Agile Software Development
 - Software Architecture Foundations
